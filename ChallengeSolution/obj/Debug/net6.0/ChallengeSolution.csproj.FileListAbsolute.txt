@@ -1,0 +1,14 @@
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\bin\Debug\net6.0\ChallengeSolution.exe
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\bin\Debug\net6.0\ChallengeSolution.deps.json
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\bin\Debug\net6.0\ChallengeSolution.runtimeconfig.json
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\bin\Debug\net6.0\ChallengeSolution.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\bin\Debug\net6.0\ChallengeSolution.pdb
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.AssemblyInfoInputs.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.AssemblyInfo.cs
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.csproj.CoreCompileInputs.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\refint\ChallengeSolution.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.pdb
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ChallengeSolution.genruntimeconfig.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\ChallengeSolution\obj\Debug\net6.0\ref\ChallengeSolution.dll

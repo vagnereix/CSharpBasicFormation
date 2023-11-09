@@ -1,0 +1,14 @@
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.AssemblyInfoInputs.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.AssemblyInfo.cs
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.csproj.CoreCompileInputs.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\bin\Debug\net6.0\FirstSteps.exe
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\bin\Debug\net6.0\FirstSteps.deps.json
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\bin\Debug\net6.0\FirstSteps.runtimeconfig.json
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\bin\Debug\net6.0\FirstSteps.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\bin\Debug\net6.0\FirstSteps.pdb
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\refint\FirstSteps.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.pdb
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\FirstSteps.genruntimeconfig.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\FirstSteps\obj\Debug\net6.0\ref\FirstSteps.dll

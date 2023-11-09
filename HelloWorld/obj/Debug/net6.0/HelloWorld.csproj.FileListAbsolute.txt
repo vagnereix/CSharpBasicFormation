@@ -1,0 +1,14 @@
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\www\C#\BasicFormationLinkedinLearningC#\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
